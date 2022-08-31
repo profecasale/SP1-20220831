@@ -22,7 +22,7 @@ namespace pryCasaleSP1
             //frmLogin miFormulario ---> declarar un objeto del molde (clase) frmLogin
             frmLogin miFormulario = new frmLogin();
             //= new frmLogin(); --->crear en memoria el formulario para ser utilizado
-
+            //.....
             //mostrar el formulario en pantalla
             miFormulario.ShowDialog();
         }
