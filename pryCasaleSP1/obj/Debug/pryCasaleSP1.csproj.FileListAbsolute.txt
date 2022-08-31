@@ -1,0 +1,12 @@
+C:\Users\Alumno\source\repos\pryCasaleSP1\bin\Debug\pryCasaleSP1.exe.config
+C:\Users\Alumno\source\repos\pryCasaleSP1\bin\Debug\pryCasaleSP1.exe
+C:\Users\Alumno\source\repos\pryCasaleSP1\bin\Debug\pryCasaleSP1.pdb
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.frmMain.resources
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.exe
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.pdb
+C:\Users\Alumno\source\repos\pryCasaleSP1\obj\Debug\pryCasaleSP1.frmLogin.resources
